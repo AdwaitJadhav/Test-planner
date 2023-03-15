@@ -1,0 +1,13 @@
+input {
+    width: 125px;
+    overflow: hidden;
+}
+
+* {
+   font-family: monospace;
+   font-size: large;
+}
+
+footer a{
+  display: block;
+}
